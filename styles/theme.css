@@ -1,0 +1,8 @@
+:root {
+  --brand-color: 34 197 94;
+  --brand-foreground: 255 255 255;
+}
+
+[data-theme='dark'] {
+  --brand-color: 59 130 246;
+}
